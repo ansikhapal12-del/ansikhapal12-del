@@ -26,5 +26,5 @@
 
 ## Connect With Me
 
-- LinkedIn: [linkedin.com/in/anshika-k-03976a447]
+- LinkedIn: [https://www.linkedin.com/in/anshika-k-03976a447]
 - Email: [ansikhapal12@gmail.com]
